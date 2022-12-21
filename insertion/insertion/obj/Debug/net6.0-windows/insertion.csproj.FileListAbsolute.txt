@@ -1,0 +1,17 @@
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\bin\Debug\net6.0-windows\insertion.exe
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\bin\Debug\net6.0-windows\insertion.deps.json
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\bin\Debug\net6.0-windows\insertion.runtimeconfig.json
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\bin\Debug\net6.0-windows\insertion.dll
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\bin\Debug\net6.0-windows\insertion.pdb
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.csproj.AssemblyReference.cache
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.Form1.resources
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.csproj.GenerateResource.cache
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.AssemblyInfoInputs.cache
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.AssemblyInfo.cs
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.csproj.CoreCompileInputs.cache
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.dll
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\refint\insertion.dll
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.pdb
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\insertion.genruntimeconfig.cache
+C:\Users\Dos\OneDrive\Desktop\insertion\insertion\obj\Debug\net6.0-windows\ref\insertion.dll
